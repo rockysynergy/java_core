@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyFilesTest",
+            "request": "launch",
+            "mainClass": "MyFilesTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FilesTest",
+            "request": "launch",
+            "mainClass": "FilesTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "practice.src.main.java.com.kmenpin.javacore.App",
+            "projectName": "JavaCore_44b7875b"
+        }
+    ]
+}

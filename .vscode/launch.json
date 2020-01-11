@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RandomTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Number.RandomTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MathTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Number.MathTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BigIntegerTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Number.BigIntegerTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BigDecimalTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Number.BigDecimalTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FloadTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Number.FloadTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "learn.javacore.App",

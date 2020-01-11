@@ -2,6 +2,51 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "learn.javacore.App",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dummy",
+            "request": "launch",
+            "mainClass": "learn.javacore.Dummy"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntegerTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Number.IntegerTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.kmenpin.App",
+            "projectName": "javacore"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dummy",
+            "request": "launch",
+            "mainClass": "Dummy"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntegerTest",
+            "request": "launch",
+            "mainClass": "IntegerTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringAppendTest",
+            "request": "launch",
+            "mainClass": "StringAppendTest"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MyFilesTest",
             "request": "launch",
             "mainClass": "MyFilesTest"

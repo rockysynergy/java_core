@@ -2,6 +2,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DateFormatterTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.DateFormatterTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalDateTimeExample",
+            "request": "launch",
+            "mainClass": "learn.javacore.Date.LocalDateTimeExample",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalDateExample",
+            "request": "launch",
+            "mainClass": "learn.javacore.Date.LocalDateExample",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InstantExample",
+            "request": "launch",
+            "mainClass": "learn.javacore.Date.InstantExample",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateUtil",
+            "request": "launch",
+            "mainClass": "learn.javacore.Date.DateUtil",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Date.DateTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CalendarTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Date.CalendarTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CalendarClass",
+            "request": "launch",
+            "mainClass": "learn.javacore.Date.CalendarClass",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringBufferCapacity",
+            "request": "launch",
+            "mainClass": "learn.javacore.String.StringBufferCapacity",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringBufferReference",
+            "request": "launch",
+            "mainClass": "learn.javacore.String.StringBufferReference",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.String.StringTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RandomTest",
             "request": "launch",
             "mainClass": "learn.javacore.Number.RandomTest",

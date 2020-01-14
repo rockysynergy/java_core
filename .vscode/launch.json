@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TwoDigitsTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Formatter.TwoDigitsTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "learn.javacore.Formatter.Test",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleDateTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Formatter.SimpleDateTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MessageFormatTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Formatter.MessageFormatTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DecimalFormaterRuleTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Formatter.DecimalFormaterRuleTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateFormatterTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.Formatter.DateFormatterTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DateFormatterTest",
             "request": "launch",
             "mainClass": "learn.javacore.DateFormatterTest",

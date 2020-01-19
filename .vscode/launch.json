@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ThreadShareVariable4",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.ThreadShareVariable4",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadShareVariable1",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.ThreadShareVariable1",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadDemo3",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.ThreadDemo3",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadDemo2",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.ThreadDemo2",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadDemo1",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.ThreadDemo1",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyRunable",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.MyRunable",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyThread",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.MyThread",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RsTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.String.RsTest",
+            "projectName": "voa"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TwoDigitsTest",
             "request": "launch",
             "mainClass": "learn.javacore.Formatter.TwoDigitsTest",

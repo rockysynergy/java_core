@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ThreadDemo4",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.daemon.ThreadDemo4",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadDemo5",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.Deadlock.ThreadDemo5",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InterruptTest",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.Interupt.InterruptTest",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProductTester",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurentA.ProductConsumption.ProductTester",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ThreadShareVariable4",
             "request": "launch",
             "mainClass": "learn.javacore.ConcurentA.ThreadShareVariable4",

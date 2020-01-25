@@ -2,6 +2,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MyPhaser",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ThreadCommunication.MyPhaser",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyExchanger",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ThreadCommunication.MyExchanger",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyCyclicBarrier",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ThreadCommunication.MyCyclicBarrier",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountDownLatchExample",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ThreadCommunication.CountDownLatchExample",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Parking",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ThreadCommunication.Semaphore.Parking",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Handleorder",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ThreadCommunication.Lock.Handleorder",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuyMilk",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ThreadCommunication.Lock.BuyMilk",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.MyExSum.Main",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.MyExServer.Main",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ForkJoin.Main",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ExcecutorSum.Main",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.ExcecutorServer.Main",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.Threadgroup.Main",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ThreadDemo4",
             "request": "launch",
             "mainClass": "learn.javacore.ConcurentA.daemon.ThreadDemo4",

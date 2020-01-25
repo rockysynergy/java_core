@@ -4,10 +4,12 @@ public class InterruptTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		TestThread1 t1 = new TestThread1();
-		TestThread2 t2 = new TestThread2();
+        TestThread2 t2 = new TestThread2();
+        TestThread2 t3 = new TestThread2();
 
 		t1.start();
-		t2.start();
+        t2.start();
+        t3.start();
 
 		// 让线程运行一会儿后中断
 		Thread.sleep(2000);
@@ -35,17 +37,17 @@ class TestThread1 extends Thread {
 }
 
 class TestThread2 extends Thread {
-	public volatile boolean flag = true;
+	public volatile static boolean flag = true;
 	public void run() {
 		// 判断标志，当本线程被别人interrupt后，JVM会被本线程设置interrupted标记
 		while (flag) {
-			System.out.println("test thread2 is running");
+			System.out.println("test thread2 is running: " + Thread.currentThread().getName());
 			try {
 				Thread.sleep(1000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
 		}
-		System.out.println("test thread2 is exiting");
+		System.out.println("test thread2 is exiting " + Thread.currentThread().getName());
 	}
 }

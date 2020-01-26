@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MyScheduleExecutor",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.TimedTask.MyScheduleExecutor",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyTimer",
+            "request": "launch",
+            "mainClass": "learn.javacore.ConcurrentB.TimedTask.MyTimer",
+            "projectName": "vob"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MyPhaser",
             "request": "launch",
             "mainClass": "learn.javacore.ConcurrentB.ThreadCommunication.MyPhaser",
